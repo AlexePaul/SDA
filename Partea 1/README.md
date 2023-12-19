@@ -1,4 +1,4 @@
-# Nrpits
+# [Nrpits](https://infoarena.ro/problema/nrpits)
 
 <details>
 <summary>Explicatie</summary>
@@ -11,7 +11,7 @@
 
 </details>
 
-# Cifre4
+# [Cifre4](https://infoarena.ro/problema/cifre4)
 
 <details>
 <summary>Explicatie</summary>
